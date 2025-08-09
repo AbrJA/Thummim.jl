@@ -70,7 +70,7 @@ struct Search
     with_vector::Bool
     filter::Dict{Symbol, Any}
 
-    function Search2(vector::AbstractVector,
+    function Search(vector::AbstractVector,
                     limit::Int,
                     with_payload::Bool,
                     with_vector::Bool;
