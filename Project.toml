@@ -1,6 +1,7 @@
-name = "Example"
-uuid = "7876af07-990d-54b4-ab0e-23690620f79a"
-version = "0.5.5"
+name = "Thummim"
+uuid = "03970af5-09bb-4a00-a1c7-f5b13975b2eb"
+authors = ["AbrJA <abraham.jaimes.mx@gmail.com>"]
+version = "0.1.0"
 
 [compat]
 julia = "1"
